@@ -1,0 +1,36 @@
+.lewy, .prawy {
+    float: left
+}
+
+.prawy {
+    width: 300px;
+}
+
+.czysc {
+    clear: both
+}
+
+.Lakier:hover {
+    border: 3px solid black;
+    border-radius: 5%;
+}
+
+.nazwa {
+    font-size: large;
+    font-weight: bold;
+}
+.cena {
+    font-weight: bold;
+}
+.reklama {
+    background-color: darksalmon;
+}
+
+.Lakier {
+    margin: 10px;
+}
+
+button {
+    display: flex;
+    margin:auto;
+}
